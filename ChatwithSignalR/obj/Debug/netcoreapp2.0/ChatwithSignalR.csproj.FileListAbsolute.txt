@@ -1,0 +1,12 @@
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\bin\Debug\netcoreapp2.0\ChatwithSignalR.deps.json
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\bin\Debug\netcoreapp2.0\ChatwithSignalR.runtimeconfig.json
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\bin\Debug\netcoreapp2.0\ChatwithSignalR.runtimeconfig.dev.json
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\bin\Debug\netcoreapp2.0\ChatwithSignalR.dll
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\obj\Debug\netcoreapp2.0\ChatwithSignalR.csprojResolveAssemblyReference.cache
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\obj\Debug\netcoreapp2.0\ChatwithSignalR.csproj.CoreCompileInputs.cache
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\obj\Debug\netcoreapp2.0\ChatwithSignalR.AssemblyInfoInputs.cache
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\obj\Debug\netcoreapp2.0\ChatwithSignalR.AssemblyInfo.cs
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\bin\Debug\netcoreapp2.0\ChatwithSignalR.pdb
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\obj\Debug\netcoreapp2.0\ChatwithSignalR.dll
+c:\users\krunal\source\repos\ChatwithSignalR\ChatwithSignalR\obj\Debug\netcoreapp2.0\ChatwithSignalR.pdb
